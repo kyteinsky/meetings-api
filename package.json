@@ -1,0 +1,23 @@
+{
+  "name": "meetings-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyteinsky/meetings_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyteinsky/meetings_api/issues"
+  },
+  "homepage": "https://github.com/kyteinsky/meetings_api#readme",
+  "dependencies": {
+    "redis": "^4.2.0"
+  }
+}
